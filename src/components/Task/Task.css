@@ -1,0 +1,25 @@
+/* Task Css */
+
+
+.task{
+    display: flex;
+    margin: 2%;
+}
+
+.taskDetail{
+    padding: 10px;
+    background-color: black;
+    width: 250px;
+    height: 20px;
+    color: white;
+    margin-right: 2%;
+}
+
+.done
+{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding:10px;
+    border: none;
+}
